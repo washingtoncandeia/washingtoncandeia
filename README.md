@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Washington Candeia de Araújo
+- 👋 Hi, I’m Washington Candeia de Araújo, Biologist and Pharmacist with M.Sc in Genetics and Molecular Biology.
 - 👀 I’m interested in Molecular Biology, Genetics, Cytogenetics and Evolution.
 - 🌱 I’m currently learning some molecular biology and computational tools to analysis of biological data. 
 - 💞️ I’m looking to collaborate on evolutionary research projects.
